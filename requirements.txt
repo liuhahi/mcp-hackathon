@@ -1,1 +1,12 @@
 textarena
+requests
+openai
+rich
+chess
+networkx
+python-dotenv
+opencv-python
+nltk
+websockets
+mss
+boto3
